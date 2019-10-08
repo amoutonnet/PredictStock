@@ -1,3 +1,3 @@
 # Predicting GS Stock with Temporal Convolutionnal Networks (TCN)
 
-![Alt Text](Plot/training_evoluton.gif)
+![Alt Text](https://github.com/amoutonnet/PredictStock/tree/master/Plots/training_evoluton.gif)
